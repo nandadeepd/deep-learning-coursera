@@ -8,3 +8,5 @@
 * VGG-19
 * Inception v2
 * Residual Network
+* Yolo
+
